@@ -1,3 +1,8 @@
+Оригинальный репозиторий.  
+https://github.com/getkin/kin-openapi 
+
+Реализация OpenAPI 3.0 для Go.  
+
 [![CI](https://github.com/getkin/kin-openapi/workflows/go/badge.svg)](https://github.com/getkin/kin-openapi/actions)
 [![Go Report Card](https://goreportcard.com/badge/github.com/getkin/kin-openapi)](https://goreportcard.com/report/github.com/getkin/kin-openapi)
 [![GoDoc](https://godoc.org/github.com/getkin/kin-openapi?status.svg)](https://godoc.org/github.com/getkin/kin-openapi)
